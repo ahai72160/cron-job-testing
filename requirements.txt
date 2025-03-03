@@ -1,0 +1,3 @@
+beautifulsoup4==4.12.3  # Web scraping
+sqlalchemy==2.0.27      # Làm việc với database
+requests==2.32.3
